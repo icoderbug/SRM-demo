@@ -1,2 +1,1 @@
-# SRM-demo
-just for my internship training
+Name : Prateek singh
